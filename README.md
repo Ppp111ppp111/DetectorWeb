@@ -12,12 +12,12 @@ This application uses TensorFlow.js for real-time object detection through your 
 ### Project Structure
 
 src/
-├── components/        # React components
-├── hooks/            # Custom React hooks
-├── utils/            # Utility functions
-├── types/            # TypeScript type definitions
-├── services/         # API and external service integrations
-└── styles/           # CSS and style-related files
+├── components/        
+├── hooks/            
+├── utils/           
+├── types/           
+├── services/      
+└── styles/           
 ```
 
 ### Getting Started
